@@ -1,1 +1,12 @@
-
+{
+  "Steps":[
+  "1 open window of programs",
+  "2 clicked the "Open" button"
+    ]
+  {
+"Expected result": "The "Payment" window opens"
+}
+{
+"Real result": "404 error is thrown"
+}
+}
